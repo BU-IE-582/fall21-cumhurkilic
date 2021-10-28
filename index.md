@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-This is the [Progress Journal](https://bu-ie-582.github.io/fall21cumhurkilic/) created for the IE582 course of Bogazici University. Source files can be found [here](https://github.com/BU-IE-582/fall21-cumhurkilic).
+This is the [Progress Journal](https://bu-ie-582.github.io/fall21cumhur-kilic/) created for the IE582 course of Bogazici University. Source files can be found [here](https://github.com/BU-IE-582/fall21-cumhurkilic).
 
 
 ## Homeworks
