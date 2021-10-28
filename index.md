@@ -16,7 +16,7 @@ There will be a number of homeworks given for the course, for which descriptions
 
 ### Homework 1
 
-* [Homework 1 Instructions](https://bu-ie-582.github.io/fall21-cumhurkilic/IE582_Fall21_Homework_1.pdf)
+* [Homework 1 Instructions](https://bu-ie-582.github.io/fall21-cumhurkilic/IE582_Fall21_Homework1.pdf)
 
 * [Curse of Dimensionality and Data Manipulation on Images](https://bu-ie-582.github.io/fall21-cumhurkilic/IE582_HW1_Cumhur_Kılıç.html)
  
