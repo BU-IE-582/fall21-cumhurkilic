@@ -7,6 +7,7 @@ This is the my [Progress Journal](https://bu-ie-582.github.io/fall21-cumhurkilic
 ### Homework 0
 
 * [Homework 0 Instructions](https://bu-ie-582.github.io/fall21-cumhurkilic/files/IE582_Fall21_Homework_0.pdf)
+* This homework was the creation of this page with the given instructions.
 
 ### Homework 1
 
