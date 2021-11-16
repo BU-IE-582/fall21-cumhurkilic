@@ -4,7 +4,7 @@ This is the my [Progress Journal](https://bu-ie-582.github.io/fall21-cumhurkilic
 
 ## Homeworks
 
-* [Code Files for Homeworks](https://bu-ie-582.github.io/fall21-cumhurkilic/files)
+* [Code Files for Homeworks](https://github.com/BU-IE-582/fall21-cumhurkilic/tree/gh-pages/files)
 
 ### Homework 0
 
