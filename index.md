@@ -22,5 +22,5 @@ This is the my [Progress Journal](https://bu-ie-582.github.io/fall21-cumhurkilic
 
 * [Dimensionality reduction and Reconstructing Turkey Map](https://bu-ie-582.github.io/fall21-cumhurkilic/files/IE582_Fall21_Homework2.html)
 
-* [Code Files](https://bu-ie-582.github.io/fall21-cumhurkilic/files/IE582_Fall21_Homework2.ipynb)
+* [Code Files](https://bu-ie-582.github.io/fall21-cumhurkilic/files)
  
