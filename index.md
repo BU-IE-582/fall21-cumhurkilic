@@ -14,4 +14,12 @@ This is the my [Progress Journal](https://bu-ie-582.github.io/fall21-cumhurkilic
 * [Homework 1 Instructions](https://bu-ie-582.github.io/fall21-cumhurkilic/files/IE582_Fall21_Homework1.pdf)
 
 * [Curse of Dimensionality and Data Manipulation on Images](https://bu-ie-582.github.io/fall21-cumhurkilic/files/IE582_HW1_Cumhur_Kılıç.html)
+
+
+### Homework 2
+
+* [Homework 2 Instructions](https://bu-ie-582.github.io/fall21-cumhurkilic/files/IE582_Fall21_Homework2.pdf)
+
+* [Dimensionality reduction and Reconstructing Turkey Map](https://bu-ie-582.github.io/fall21-cumhurkilic/files/IE582_Fall21_Homework2.html)
+* [Code Files](https://bu-ie-582.github.io/fall21-cumhurkilic/files/IE582_Fall21_Homework2.ipynb)
  
