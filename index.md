@@ -4,6 +4,8 @@ This is the my [Progress Journal](https://bu-ie-582.github.io/fall21-cumhurkilic
 
 ## Homeworks
 
+* [Code Files fpr Homeworks](https://bu-ie-582.github.io/fall21-cumhurkilic/files)
+
 ### Homework 0
 
 * [Homework 0 Instructions](https://bu-ie-582.github.io/fall21-cumhurkilic/files/IE582_Fall21_Homework_0.pdf)
@@ -22,5 +24,4 @@ This is the my [Progress Journal](https://bu-ie-582.github.io/fall21-cumhurkilic
 
 * [Dimensionality reduction and Reconstructing Turkey Map](https://bu-ie-582.github.io/fall21-cumhurkilic/files/IE582_Fall21_Homework2.html)
 
-* [Code Files](https://bu-ie-582.github.io/fall21-cumhurkilic/files)
  
