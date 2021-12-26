@@ -28,7 +28,7 @@ This is the my [Progress Journal](https://bu-ie-582.github.io/fall21-cumhurkilic
 
 * [Homework 3 Instructions](https://bu-ie-582.github.io/fall21-cumhurkilic/files/IE582_Fall21_Homework3.pdf)
 
-* [KNN and Logistic Regression on Time Series Data](https://bu-ie-582.github.io/fall21-cumhurkilic/files/IE582_Fall21_Homework3.html)
+* [Multiple Instance Learning on Musk1 Data](https://bu-ie-582.github.io/fall21-cumhurkilic/files/IE582_Fall21_Homework4.html)
 
 ### Homework 4
 
